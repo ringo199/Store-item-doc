@@ -1,0 +1,26 @@
+<h1>果蔬小屋项目开发说明</h1>
+<ul>
+<li>整个项目中，包含了系统功能和需求说明书，Server接口文档摘要、Frontend设计需求说明、Android客户端的需求说明，iOS客户端的需求说明、商家管理端的需求说明，以及系统数据库设计。</li>
+<li>本系统适用于果蔬商店网上业务的扩展，分为用户端(Android和iOS)和商家管理端(PC)，其中用户端包含用户信息管理模块，购物车模块，商品浏览模块；商家管理端包含商品管理模块，订单管理模块。
+</li>
+<li>本系统的所有说明文档放到github</li>
+<li>本系统的所有说明文档放到github<a href="https://github.com/rebornable">Rebornable</a></li>
+</ul>
+<h1>包含文档</h1>
+<ul>
+<li>系统功能和需求说明书</li>
+<li>Server接口文档摘要</li>
+<li>Frontend设计需求说明</li>
+<li>Android客户端的需求说明</li>
+<li>iOS客户端的需求说明</li>
+<li>商家管理端的需求说明</li>
+<li>数据库设计说明</li>
+</ul>
+<h1>开发小组</h1>
+<ul>
+<li>付超群</li>
+<li>林锦辉</li>
+<li>潘露露</li>
+<li>徐高远</li>
+<li>熊天宇</li>
+</ul>
