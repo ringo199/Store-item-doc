@@ -1,9 +1,9 @@
 <h1>果蔬小屋--Server</h1>
 <ul>
-<li>版本 ： v1.0.0_2017_10_10<li>
+<li>版本 ： v1.0.0_2017_10_10</li>
 <li>项目地址 ：<a href="https://github.com/rebornable/Store-item-Server">Store-item-Server</a></li>
 </ul>
-<h1><开发与部署/h1>
+<h1>开发与部署</h1>
 <ul>
 <li>测试软件：JUnit</li>
 <li>部署系统：windows10 x64</li>
